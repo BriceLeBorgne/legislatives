@@ -1,0 +1,566 @@
+Departement,Code dept,Circo,Candidat LR
+Ille-et-Vilaine,35,1,Réservée
+Ille-et-Vilaine,35,2,Bertrand Plouvier
+Ille-et-Vilaine,35,3,Melina Parmentier
+Ille-et-Vilaine,35,4,Jean-Marc Carreau
+Ille-et-Vilaine,35,5,Isabelle Le Callennec
+Ille-et-Vilaine,35,6,Réservée
+Ille-et-Vilaine,35,7,Gilles Lurton
+Ille-et-Vilaine,35,8,Amélie Dhalluin
+Allier,3,1,Pierre-André Perissol
+Allier,3,2,Daniel Duglery
+Allier,3,3,Gabriel Maquin
+Charente,16,1,Elise Vouvet-Laguionnie
+Charente,16,2,Daniel Sauvaitre
+Charente,16,3,Réservée
+Saint-Pierre-et-Miquelon,975,1,Réservée
+Paris,75,1,Jean-François Legaret
+Paris,75,2,Nathalie Kosciusco-Morizet
+Paris,75,3,Réservée
+Paris,75,4,Brigitte Kuster
+Paris,75,5,Déborah Pawlik
+Paris,75,6,Réservée
+Paris,75,7,Vincent Roger
+Paris,75,8,Valérie Montandon
+Paris,75,9,Laure Esquieu
+Paris,75,10,Sandrine Richard
+Paris,75,11,Jean-Pierre Lecoq
+Paris,75,12,Philippe Goujon
+Paris,75,13,Jean-François Lamour
+Paris,75,14,Claude Goasguen
+Paris,75,15,Atanase Périfan
+Paris,75,16,Anne-Constance Onghena
+Paris,75,17,Babette de Rozières
+Paris,75,18,Pierre-Yves Bournazel
+Territoire-de-Belfort,90,1,Ian Boucard
+Territoire-de-Belfort,90,2,Réservée
+Haute-Savoie,74,1,Annabel André-Laurent
+Haute-Savoie,74,2,Lionel Tardy
+Haute-Savoie,74,3,Martial Saddier
+Haute-Savoie,74,4,Virginie Duby-Muller
+Haute-Savoie,74,5,Patricia Mahut
+Haute-Savoie,74,6,Sophie Dion
+Aveyron,12,1,Yves Censi
+Aveyron,12,2,André At
+Aveyron,12,3,Arnaud Viala
+Finistère,29,1,Réservée
+Finistère,29,2,Véronique Bourbigot
+Finistère,29,3,Réservée
+Finistère,29,4,Maël de Calan
+Finistère,29,5,Patrick Leclerc
+Finistère,29,6,Gaëlle Nicolas
+Finistère,29,7,Didier Guillon
+Finistère,29,8,Laetitia Boidin
+Haute-Garonne,31,1,Francois Chollet
+Haute-Garonne,31,2,Christine Gennaro-Saint
+Haute-Garonne,31,3,Laurence Arribagé
+Haute-Garonne,31,4,Bertrand Serp
+Haute-Garonne,31,5,Réservée
+Haute-Garonne,31,6,Damien Laborde
+Haute-Garonne,31,7,Françoise Borret
+Haute-Garonne,31,8,Réservée
+Haute-Garonne,31,9,Simone Pauzin-Fournié
+Haute-Garonne,31,10,Arnaud Lafon
+Gard,30,1,Réservée
+Gard,30,2,Pascale Mourrut
+Gard,30,3,Muriel Dherbecourt
+Gard,30,4,Valérie Meunier
+Gard,30,5,Léa Boyer
+Gard,30,6,Richard Flandin
+Maine-et-Loire,49,1,Caroline Fel
+Maine-et-Loire,49,2,Maxence Henry
+Maine-et-Loire,49,3,Jean-Charles Taugourdeau
+Maine-et-Loire,49,4,Réservée
+Maine-et-Loire,49,5,Réservée
+Maine-et-Loire,49,6,André Martin
+Maine-et-Loire,49,7,Étienne Glémot
+Pyrénées-Orientales,66,1,Daniel Mach
+Pyrénées-Orientales,66,2,Fernand Siré
+Pyrénées-Orientales,66,3,Danièle Pages
+Pyrénées-Orientales,66,4,Jacqueline Irles 67
+Pyrénées-Orientales,66,1,Elsa Schalck
+Pyrénées-Orientales,66,2,Réservée
+Pyrénées-Orientales,66,3,Georges Schuler
+Pyrénées-Orientales,66,4,Sophie Rohfritsch
+Pyrénées-Orientales,66,5,Antoine Herth
+Pyrénées-Orientales,66,6,Laurent Furst
+Pyrénées-Orientales,66,7,Patrick Hetzel
+Pyrénées-Orientales,66,8,Frédéric Reiss
+Pyrénées-Orientales,66,9,Etienne Wolf
+Val-d'Oise,95,1,Antoine Savignat
+Val-d'Oise,95,2,Axel Poniatowski
+Val-d'Oise,95,3,Nicole Lanaspre
+Val-d'Oise,95,4,Claude Bodin
+Val-d'Oise,95,5,Gilles Savry
+Val-d'Oise,95,6,Luc Strehaiano
+Val-d'Oise,95,7,Jérôme Chartier
+Val-d'Oise,95,8,Réservée
+Val-d'Oise,95,9,Anthony Arciero
+Val-d'Oise,95,10,Virginie Tinland
+Ariège,9,1,Marie-Noëlle Samarq
+Ariège,9,2,Philippe Calleja
+Savoie,73,1,Dominique Dord
+Savoie,73,2,Vincent Rolland
+Savoie,73,3,Emilie Bonnivard
+Savoie,73,4,Réservée
+Dordogne,24,1,Laurent Mossion
+Dordogne,24,2,Gaëlle Blanc-Lajoinie
+Dordogne,24,3,Isabelle Hyvoz
+Dordogne,24,4,Jérôme Peyrat
+Haute-Marne,52,1,Adrien Guéné
+Haute-Marne,52,2,François Cornut-Gentille
+Manche,50,1,Philippe Gosselin
+Manche,50,2,Guénhaël Huet
+Manche,50,3,Jean-Manuel Cousin
+Manche,50,4,Sophie Guyon
+Seine-Saint-Denis,93,1,Marina Venturini
+Seine-Saint-Denis,93,2,Hayette Hamidi
+Seine-Saint-Denis,93,3,Réservée
+Seine-Saint-Denis,93,4,Christine Cerrigone
+Seine-Saint-Denis,93,5,Réservée
+Seine-Saint-Denis,93,6,Réservée
+Seine-Saint-Denis,93,7,Manon Laporte-Sieraczek
+Seine-Saint-Denis,93,8,Patrice Calmejane
+Seine-Saint-Denis,93,9,Réservée
+Seine-Saint-Denis,93,10,Alain Ramadier
+Seine-Saint-Denis,93,11,Christine Perron
+Seine-Saint-Denis,93,12,Réservée
+Guyane,973,1,Béatrice Bernus
+Guyane,973,2,Juliana Rimane
+Bouches-du-Rhône,13,1,Valérie Boyer
+Bouches-du-Rhône,13,2,Dominique Tian
+Bouches-du-Rhône,13,3,Richard Miron
+Bouches-du-Rhône,13,4,Solange Biaggi
+Bouches-du-Rhône,13,5,Yves Moraine
+Bouches-du-Rhône,13,6,Guy Teissier
+Bouches-du-Rhône,13,7,Réservée
+Bouches-du-Rhône,13,8,Sandra Dalbin
+Bouches-du-Rhône,13,9,Bernard Deflesselles
+Bouches-du-Rhône,13,10,Richard Mallié
+Bouches-du-Rhône,13,11,Christian Kert
+Bouches-du-Rhône,13,12,Eric Diard
+Bouches-du-Rhône,13,13,Jean-Luc Di Maria
+Bouches-du-Rhône,13,14,Stéphane Paoli
+Bouches-du-Rhône,13,15,Bernard Reynès
+Bouches-du-Rhône,13,16,Marie-Pierre Callet
+Hautes-Alpes,5,1,Catherine Asso
+Hautes-Alpes,5,2,Réservée
+Mayenne,53,1,Samia Soultani-Vigneron
+Mayenne,53,2,Guillaume Chevrollier
+Mayenne,53,3,Réservée
+Haute-Saône,70,1,Dimitri Doussot
+Haute-Saône,70,2,Isabelle Géhin
+Seine-Maritime,76,1,Jean-François Bures
+Seine-Maritime,76,2,Françoise Guégot
+Seine-Maritime,76,3,Jonas Haddad
+Seine-Maritime,76,4,Marie-Hélène Roux
+Seine-Maritime,76,5,Jean Delalandre
+Seine-Maritime,76,6,Réservée
+Seine-Maritime,76,7,Agnès Firmin Le Bodo
+Seine-Maritime,76,8,Sébastien Tasserie
+Seine-Maritime,76,9,Réservée
+Seine-Maritime,76,10,Charles d’Anjou
+Somme,80,1,Stéphane Decayeux
+Somme,80,2,Réservée
+Somme,80,3,Emmanuel Maquet
+Somme,80,4,Martin Domise
+Somme,80,5,Réservée
+Gironde,33,1,Nicolas Florian
+Gironde,33,2,Anne Valryck
+Gironde,33,3,Alexandre Gourd
+Gironde,33,4,Réservée
+Gironde,33,5,Florence Legrand
+Gironde,33,6,Réservée
+Gironde,33,7,Karine Roux-Labat
+Gironde,33,8,Yves Foulon
+Gironde,33,9,Michel Dufranc
+Gironde,33,10,Jean-Paul Garraud
+Gironde,33,11,Mireille Conte-Jaubert
+Gironde,33,12,Yves d’Amecourt
+Hauts-de-Seine,92,1,Nadia Frontigny
+Hauts-de-Seine,92,2,Marie-Do Aeschlimann
+Hauts-de-Seine,92,3,Jean Spiri
+Hauts-de-Seine,92,4,Camille Bedin
+Hauts-de-Seine,92,5,Arnaud de Courson
+Hauts-de-Seine,92,6,Constance Le Grip
+Hauts-de-Seine,92,7,Eric Berdoati
+Hauts-de-Seine,92,8,Gilles Boyer
+Hauts-de-Seine,92,9,Thierry Solere
+Hauts-de-Seine,92,10,Réservée
+Hauts-de-Seine,92,11,Réservée
+Hauts-de-Seine,92,12,Philippe Pemezec
+Hauts-de-Seine,92,13,Georges Siffredi
+Haute-Corse,2B,1,Sauveur Gandolfi-Scheit
+Haute-Corse,2B,2,Stéphanie Grimaldi
+Nord,59,1,Réservée
+Nord,59,2,Florence Bariseau
+Nord,59,3,Réservée
+Nord,59,4,Jacques Houssin
+Nord,59,5,Sébastien Huyghe
+Nord,59,6,Thierry Lazaro
+Nord,59,7,Réservée
+Nord,59,8,Léonard Delcourt
+Nord,59,9,Bernard Gérard
+Nord,59,10,Vincent Ledoux
+Nord,59,11,Karine Charbonnier-Beck
+Nord,59,12,Marjorie Gosselet-Cambrai
+Nord,59,13,Réservée
+Nord,59,14,Paul Christophe
+Nord,59,15,Jean-Pierre Bataille
+Nord,59,16,Nacéra Soltani
+Nord,59,17,Frederic Nihous
+Nord,59,18,Réservée
+Nord,59,19,Olivier Capron
+Nord,59,20,Réservée
+Nord,59,21,Réservée
+Ardennes,8,1,Bérengère Poletti
+Ardennes,8,2,Pierre Cordier
+Ardennes,8,3,Jean-Luc Warsmann
+Landes,40,1,Marie-Françoise Nadau
+Landes,40,2,Sylviane Pacot
+Landes,40,3,Réservée
+Doubs,25,1,Françoise Branget
+Doubs,25,2,Ludovic Fagaut
+Doubs,25,3,Frédéric Cartier
+Doubs,25,4,Valère Nedey
+Doubs,25,5,Annie Genevard
+La Réunion,974,1,Jean-Jacques Morel
+La Réunion,974,2,Cyril Melchior
+La Réunion,974,3,Nathalie Bassire
+La Réunion,974,4,David Lorion
+La Réunion,974,5,Daniel Gonthier
+La Réunion,974,6,Réservée
+La Réunion,974,7,Sandra Sinimalé
+Aube,10,1,Nicolas Dhuicq
+Aube,10,2,Jean-Claude Mathis
+Aube,10,3,Gérard Menuel
+Loire,42,1,Réservée
+Loire,42,2,Alexandra Custodio
+Loire,42,3,Réservée
+Loire,42,4,Dino Cinieri
+Loire,42,5,Clothilde Robin
+Loire,42,6,Paul Salen
+Martinique,972,1,Karine Mousseau
+Martinique,972,2,Réservée
+Martinique,972,3,Miguel Laventure
+Martinique,972,4,Sylvia Saïthsoothane
+Moselle,57,1,Réservée
+Moselle,57,2,Jean François
+Moselle,57,3,Marie-Jo Zimmermann
+Moselle,57,4,Fabien di Filippo
+Moselle,57,5,Céleste Lett
+Moselle,57,6,Pierre Lang
+Moselle,57,7,Réservée
+Moselle,57,8,Eliane Assioma
+Moselle,57,9,Pauline Lapointe-Zordan
+Drôme,26,1,Marlène Mourier
+Drôme,26,2,Réservée
+Drôme,26,3,Hervé Mariton
+Drôme,26,4,Emmanuelle Anthoine
+Mayotte,976,1,Elad Chakrina
+Mayotte,976,2,Mansour Kamardine
+Meurthe-et-Moselle,54,1,Réservée
+Meurthe-et-Moselle,54,2,Valérie Debord
+Meurthe-et-Moselle,54,3,Réservée
+Meurthe-et-Moselle,54,4,Thibault Bazin
+Meurthe-et-Moselle,54,5,Philippe Morenvillier
+Meurthe-et-Moselle,54,6,Lise Roseleur
+Côte-d'Or,21,1,Anne Erschens
+Côte-d'Or,21,2,Rémi Delatte
+Côte-d'Or,21,3,Pascale Caravel-Fauguet
+Côte-d'Or,21,4,Réservée
+Côte-d'Or,21,5,Hubert Poullot
+Charente-Maritime,17,1,Bruno Leal
+Charente-Maritime,17,2,Sylvie Marcilly
+Charente-Maritime,17,3,Frédéric Neveu
+Charente-Maritime,17,4,Loïc Girard
+Charente-Maritime,17,5,Didier Quentin
+Tarn-et-Garonne,82,1,Thierry Deville
+Tarn-et-Garonne,82,2,Mathieu Albugues
+Val-de-Marne,94,1,Sylvain Berrios
+Val-de-Marne,94,2,Thierry Hebbrecht
+Val-de-Marne,94,3,Didier Gonzales
+Val-de-Marne,94,4,Marie-Carole Ciuntu
+Val-de-Marne,94,5,Gilles Carrez
+Val-de-Marne,94,6,Patrick Beaudouin
+Val-de-Marne,94,7,Vincent Jeanbrun
+Val-de-Marne,94,8,Michel Herbillon
+Val-de-Marne,94,9,Bernadette Herault
+Val-de-Marne,94,10,Marie Andria
+Val-de-Marne,94,11,Audrey Gaudron
+Tarn,81,1,Anne-Michèle Bianchi
+Tarn,81,2,Pascal Grandin
+Tarn,81,3,Bernard Carayon
+Oise,60,1,Olivier Dassault
+Oise,60,2,Alexiss Mancel
+Oise,60,3,Frederique Leblanc
+Oise,60,4,Eric Woerth
+Oise,60,5,Pierre Vatin
+Oise,60,6,Éric de Valroger
+Oise,60,7,Maxime Minot
+Seine-et-Marne,77,1,Denis Jullemier
+Seine-et-Marne,77,2,Valérie Lacroute
+Seine-et-Marne,77,3,Réservée
+Seine-et-Marne,77,4,Christian Jacob
+Seine-et-Marne,77,5,Franck Riester
+Seine-et-Marne,77,6,Jean-François Parigi
+Seine-et-Marne,77,7,Yves Albarello
+Seine-et-Marne,77,8,Chantal Brunel
+Seine-et-Marne,77,9,Guy Geoffroy
+Seine-et-Marne,77,10,Réservée
+Seine-et-Marne,77,11,Natacha Bedhiaf
+Rhône,69,1,Anne Lorne
+Rhône,69,2,Laurence Balas
+Rhône,69,3,Nora Berra
+Rhône,69,4,Dominique Nachury
+Rhône,69,5,Philippe Cochet
+Rhône,69,6,Emmanuelle Haziza
+Rhône,69,7,Alexandre Vincendet
+Rhône,69,8,Patrice Verchère
+Rhône,69,9,Bernard Perrut
+Rhône,69,10,Christophe Guilloteau
+Rhône,69,11,Georges Fenech
+Rhône,69,12,Jérôme Moroge
+Rhône,69,13,Philippe Meunier
+Rhône,69,14,Réservée
+Loir-et-Cher,41,1,Damien Hénault
+Loir-et-Cher,41,2,Guillaume Peltier
+Loir-et-Cher,41,3,Réservée
+Wallis-et-Futuna,986,1,Hervé Delord
+Vendée,85,1,Alain Leboeuf
+Vendée,85,2,Béatrice Bellamy
+Vendée,85,3,Réservée
+Vendée,85,4,Réservée
+Vendée,85,5,Jean-Michel Lalère
+Meuse,55,1,Réservée
+Meuse,55,2,Pierre Regent
+1ère circonscription,65,1,Réservée
+2ème circonscription,65,2,Clément Menet
+Puy-de-Dôme,63,1,Réservée
+Puy-de-Dôme,63,2,Stéphanie Flori-Dutour
+Puy-de-Dôme,63,3,Réservée
+Puy-de-Dôme,63,4,Bertrand Barraud
+Puy-de-Dôme,63,5,Myriam Fougere
+Aude,11,1,Miren de Lorgeril
+Aude,11,2,Michel Py
+Aude,11,3,Catherine Vergé
+Cher,18,1,Wladimir d'Ormesson
+Cher,18,2,Sophie Bertrand
+Cher,18,3,Louis Cosyns
+Corrèze,19,1,Françoise Beziat
+Corrèze,19,2,Réservée
+Yvelines,78,1,François-Xavier Bellamy
+Yvelines,78,2,Pascal Thevenot
+Yvelines,78,3,Philippe Brillault
+Yvelines,78,4,Ghislain Fournier
+Yvelines,78,5,Jacques Myard
+Yvelines,78,6,Pierre Morange
+Yvelines,78,7,Réservée
+Yvelines,78,8,Michel Vialay
+Yvelines,78,9,Jean-Marie Tétart
+Yvelines,78,10,Jean-Frédéric Poisson
+Yvelines,78,11,Jean-Michel Fourgous
+Yvelines,78,12,David Douillet
+Saône-et-Loire,71,1,Jean-Patrick Courtois
+Saône-et-Loire,71,2,Josiane Corneloup
+Saône-et-Loire,71,3,Charles Landre
+Saône-et-Loire,71,4,Stéphane Gros
+Saône-et-Loire,71,5,Gilles Platret
+Guadeloupe,971,1,Alix Huygues-Beaufond
+Guadeloupe,971,2,Laurent Bernier
+Guadeloupe,971,3,Sylvie Chammougom-Anno
+Guadeloupe,971,4,Sonia Petro
+Morbihan,56,1,Christine Penhouêt
+Morbihan,56,2,Philippe Le Ray
+Morbihan,56,3,Soizic Perrault
+Morbihan,56,4,Marie-Hélène Herry
+Morbihan,56,5,Marie-Claude Gaudin
+Morbihan,56,6,Anne-Maud Goujon
+Cantal,15,1,Vincent Descoeur
+Cantal,15,2,Jean-Yves Bony
+Nouvelle-Calédonie,988,1,Bernard Deladrière
+Nouvelle-Calédonie,988,2,Réservée
+Eure-et-Loir,28,1,Franck Masselus
+Eure-et-Loir,28,2,Olivier Marleix
+Eure-et-Loir,28,3,Laure de la Raudière
+Eure-et-Loir,28,4,Réservée
+Polynésie française,987,1,Réservée
+Polynésie française,987,2,Réservée
+Polynésie française,987,3,Réservée
+Indre,36,1,Paulette Picard
+Indre,36,2,Nicolas Forissier
+Isère,38,1,Réservée
+Isère,38,2,Magalie Vicente
+Isère,38,3,Elodie Léger
+Isère,38,4,Sandrine Martin-Grand
+Isère,38,5,Philippe Langenieux-Villard
+Isère,38,6,Alain Moyne-Bressand
+Isère,38,7,Yannick Neuder
+Isère,38,8,Maryline Silvestre
+Isère,38,9,Bruno Gattaz
+Isère,38,10,Vincent Chriqui
+Creuse,23,1,Jérémie Sauty
+Vosges,88,1,Stéphane Viry
+Vosges,88,2,Gérard Cherpion
+Vosges,88,3,Patrick Lagarde
+Vosges,88,4,Jean-Jacques Gaultier
+Français établis hors de France,,1,Frédéric Lefebvre
+Français établis hors de France,,2,Pascal Drouhaud
+Français établis hors de France,,3,Laurence Azzena-Gougeon
+Français établis hors de France,,4,Valérie Bros-Khoury
+Français établis hors de France,,5,Laurence Sailliet
+Français établis hors de France,,6,Claudine Schmid
+Français établis hors de France,,7,Philippe Gustin
+Français établis hors de France,,8,Réservée
+Français établis hors de France,,9,Erwan Davoux
+Français établis hors de France,,10,Alain Marsaud
+Français établis hors de France,,11,Thierry Mariani
+Ardèche,7,1,Réservée
+Ardèche,7,2,Marc-Antoine Quenette
+Ardèche,7,3,Fabrice Brun
+Indre-et-Loire,37,1,Céline Ballesteros
+Indre-et-Loire,37,2,Claude Greff
+Indre-et-Loire,37,3,Réservée
+Indre-et-Loire,37,4,Hervé Novelli
+Indre-et-Loire,37,5,Philippe Briand
+Essonne,91,1,Caroline Varin
+Essonne,91,2,Franck Marlin
+Essonne,91,3,Réservée
+Essonne,91,4,Agnès Evren
+Essonne,91,5,Laure Darcos
+Essonne,91,6,Réservée
+Essonne,91,7,Robin Reda
+Essonne,91,8,Réservée
+Essonne,91,9,Véronique Carantois
+Essonne,91,10,Réservée
+Lot-et-Garonne,47,1,Réservée
+Lot-et-Garonne,47,2,Émilien Roso
+Lot-et-Garonne,47,3,Jean-Louis Costes
+Ain,1,1,Xavier Breton
+Ain,1,2,Charles de la Verpillière
+Ain,1,3,Stéphanie Pernod-Beaudon
+Ain,1,4,Michel Voisin
+Ain,1,5,Damien Abad
+Sarthe,72,1,Christelle Morançais
+Sarthe,72,2,Réservée
+Sarthe,72,3,Béatrice Pavy
+Sarthe,72,4,Emmanuel Franco
+Sarthe,72,5,Jean-Carles Grelier
+Vaucluse,84,1,Stéphanie Parry
+Vaucluse,84,2,Jean-Claude Bouchet
+Vaucluse,84,3,Réservée
+Vaucluse,84,4,Jean-François Perilhou
+Vaucluse,84,5,Julien Aubert
+Marne,51,1,Valérie Beauvais
+Marne,51,2,Catherine Vautrin
+Marne,51,3,Rachel Paillard
+Marne,51,4,Lise Magnier
+Marne,51,5,Réservée
+Nièvre,58,1,Réservée
+Nièvre,58,2,Annie Legrain
+Loire-Atlantique,44,1,Julien Bainvel
+Loire-Atlantique,44,2,Sébastien Pilard
+Loire-Atlantique,44,3,Rozenn Hamel
+Loire-Atlantique,44,4,Réservée
+Loire-Atlantique,44,5,Réservée
+Loire-Atlantique,44,6,Alain Hunault
+Loire-Atlantique,44,7,Franck Louvrier
+Loire-Atlantique,44,8,Florence Beuvelet
+Loire-Atlantique,44,9,Claire Hugues
+Loire-Atlantique,44,10,Jérôme Guiho
+Var,83,1,Geneviève Levy
+Var,83,2,Philippe Vitel
+Var,83,3,Jean-Louis Masson
+Var,83,4,Françoise Dumont
+Var,83,5,Guillaume Decard
+Var,83,6,Marc Lauriol
+Var,83,7,Jean-Sébastien Vialatte
+Var,83,8,Olivier Audibert-Troin
+Yonne,89,1,Guillaume Larrivé
+Yonne,89,2,Réservée
+Yonne,89,3,Clarisse Quentin
+Jura,39,1,Cyrille Brero
+Jura,39,2,Marie-Christine Dalloz
+Jura,39,3,Jean-Marie Sermier
+Eure,27,1,Bruno Le Maire
+Eure,27,2,Jean-Paul Legendre
+Eure,27,3,Réservée
+Eure,27,4,Réservée
+Eure,27,5,Alexandre Rassaërt
+Alpes-Maritimes,6,1,Éric Ciotti
+Alpes-Maritimes,6,2,Anne Sattonnet
+Alpes-Maritimes,6,3,Réservée
+Alpes-Maritimes,6,4,Xavier Beck
+Alpes-Maritimes,6,5,Marine Brenier
+Alpes-Maritimes,6,6,Laurence Trastour
+Alpes-Maritimes,6,7,Eric Pauget
+Alpes-Maritimes,6,8,Bernard Brochand
+Alpes-Maritimes,6,9,Michèle Tabarot
+Aisne,2,1,Christophe Coulon
+Aisne,2,2,Julien Dive
+Aisne,2,3,Frédéric Meura
+Aisne,2,4,Isabelle Létrillart
+Aisne,2,5,Réservée
+Haute-Vienne,87,1,Sarah Gentil
+Haute-Vienne,87,2,Réservée
+Haute-Vienne,87,3,Guillaume Guerin
+Haute-Loire,43,1,Laurent Wauquiez
+Haute-Loire,43,2,Jean-Pierre Vigier
+Calvados,14,1,Réservée
+Calvados,14,2,Aminthe Renouf
+Calvados,14,3,Sébastien Leclerc
+Calvados,14,4,Nicole Ameline
+Calvados,14,5,Cédric Nouvelot
+Calvados,14,6,Réservée
+Saint-Barthélemy et Saint-Martin,,1,Claire Javois
+Deux-Sèvres,79,1,Réservée
+Deux-Sèvres,79,2,Severine Vachon
+Deux-Sèvres,79,3,Véronique Schaaf-Gauthier
+Vienne,86,1,Jacqueline Daigre
+Vienne,86,2,Olivier Chartier
+Vienne,86,3,Enguerrand Delannoy
+Vienne,86,4,Réservée
+Hérault,34,1,Réservée
+Hérault,34,2,Nancy Canaud
+Hérault,34,3,Catherine Dardé
+Hérault,34,4,Laurence Cristol
+Hérault,34,5,Catherine Rouillé-Pasquali
+Hérault,34,6,Elie Aboud
+Hérault,34,7,Laurence Magne
+Hérault,34,8,Arnaud Julien
+Hérault,34,9,Joëlle Jenin-Vignaud
+Loiret,45,1,Charles-Eric Lemaignen
+Loiret,45,2,Serge Grouard
+Loiret,45,3,Claude de Ganay
+Loiret,45,4,Jean-Pierre Door
+Loiret,45,5,Marianne Dubois
+Loiret,45,6,Réservée
+Lozère,48,1,Pierre Morel-à-l’Huissier
+Haut-Rhin,68,1,Éric Straumann
+Haut-Rhin,68,2,Jacques Cattin
+Haut-Rhin,68,3,Jean-Luc Reitzer
+Haut-Rhin,68,4,Raphael Schellenberger
+Haut-Rhin,68,5,Olivier Becht
+Haut-Rhin,68,6,Réservée
+Lot,46,1,Aurélien Pradié
+Lot,46,2,Réservée
+Pyrénées-Atlantiques,64,1,Pauline Roy
+Pyrénées-Atlantiques,64,2,Eric Saubatte
+Pyrénées-Atlantiques,64,3,Pierre Saulnier
+Pyrénées-Atlantiques,64,4,Marc Oxibar
+Pyrénées-Atlantiques,64,5,Caroline Oustalet
+Pyrénées-Atlantiques,64,6,Maïder Arosteguy
+Orne,61,1,Bertrand Deniaud
+Orne,61,2,Véronique Louwagie
+Orne,61,3,Jérôme Nury
+Côtes-d'Armor,22,1,Sylvie Grondin
+Côtes-d'Armor,22,2,Didier Deru
+Côtes-d'Armor,22,3,Marc Le Fur
+Côtes-d'Armor,22,4,Martine Tison
+Côtes-d'Armor,22,5,Réservée
+Alpes-de-Haute-Provence,4,1,Réservée
+Alpes-de-Haute-Provence,4,2,Sébastien Ginet
+Corse-du-Sud,2A,1,Jean-Jacques Ferrara
+Corse-du-Sud,2A,2,Camille de Rocca-Serra
+Gers,32,1,Réservée
+Gers,32,2,Barbara Neto
